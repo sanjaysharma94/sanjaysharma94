@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sanjay Sharma</h1>
 <h3 align="center">A passionate Full stack Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/sanjaysharma94&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysharma94" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=github.com/sanjaysharma94&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysharma94" /> </p>
 
 - 📫 How to reach me **forusanjay007@gmail.com**
 
