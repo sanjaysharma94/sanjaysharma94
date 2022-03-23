@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysharma94&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysharma94" /> </p>
 
-- 📫 How to reach me  <a href="mailto:forusanjay007@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/small/452/filled-message.png" alt="mailto:forusanjay007@gmail.com" height="30" width="40" /></a><a href="tel:+91989-325-4800"><img src="https://img.icons8.com/material-rounded/344/phone--v1.png" height="30" width="40" ></a>
+- 📫 How to reach me  <a href="mailto:forusanjay007@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/small/452/filled-message.png" alt="mailto:forusanjay007@gmail.com" height="30" width="40" /></a><a href="tel:989-325-4800"><img src="https://img.icons8.com/material-rounded/344/phone--v1.png" height="30" width="40" ></a><a href="tel:5554280940">Call us at 555-428-0940</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
