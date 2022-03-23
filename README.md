@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysharma94&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysharma94" /> </p>
 
-- 📫 How to reach me **forusanjay007@gmail.com**
+- 📫 How to reach me  <a href="mailto:forusanjay007@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/small/452/filled-message.png" alt="mailto:forusanjay007@gmail.com" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
